@@ -1,5 +1,5 @@
 {
-  "name": "@devgfnl/module-one-step-checkout-pwa-studio",
+  "name": "devgfnl/module-one-step-checkout-pwa-studio",
   "version": "1.0.0",
   "description": "Module to configure the one step checkout extension for pwa studio",
   "type": "magento2-module",

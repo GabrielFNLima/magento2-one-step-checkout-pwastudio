@@ -1,0 +1,7 @@
+type Query {
+    checkoutPWAStudio: CheckoutPWAStudio @resolver(class: "GFNL\\CheckoutPWAStudio\\Model\\Resolver\\Configs")
+}
+
+type CheckoutPWAStudio {
+    layouts: String
+}
